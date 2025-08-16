@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Chiron+Sung+HK:ital,wght@0,200..900;1,200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mozilla+Headline:wght@200..700&family=UoqMunThenKhung&family=WDXL+Lubrifont+JP+N&family=WDXL+Lubrifont+SC&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: WDXL Lubrifont JP N;
+}
+body{
+    /* background-color: rgba(12, 12, 97, 0.858); */
+}
